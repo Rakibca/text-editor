@@ -18,7 +18,7 @@ As shown above in the screenshot, this app opens without any browser after the u
 ## Usage
 💻
 
-Browse to this link to access the PWA text editor: `https://`
+Browse to this link to access the PWA text editor: `https://still-spire-97146.herokuapp.com/`
 
 ## License
 This project is licensed under MIT.
